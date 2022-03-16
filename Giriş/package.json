@@ -1,0 +1,23 @@
+{
+  "name": "first-practice",
+  "version": "1.0.0",
+  "description": "It contains the first practice in the Patika.dev / React module.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reeyhanyilmaz/React-Patika.devFirstPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reeyhanyilmaz/React-Patika.devFirstPractice/issues"
+  },
+  "homepage": "https://github.com/Reeyhanyilmaz/React-Patika.devFirstPractice#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
