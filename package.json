@@ -2,6 +2,7 @@
   "dependencies": {
     "axios": "^0.26.1",
     "formik": "^2.2.9",
+    "redis": "^4.0.6",
     "yup": "^0.32.11"
   }
 }
