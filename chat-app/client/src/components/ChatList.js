@@ -10,7 +10,8 @@ function ChatList() {
 
 	return (
 		<div className={styles.chatlist}>
-			<ScrollableFeed forceScroll={true}>
+			<ScrollableFeed forceScroll={true}> 
+			{/* ScrollableFeed npm kutuphanesinden indirdik. forceScroll'a zorla demek. */}
 				{messages.map((item, key) => (
 					<ChatItem key={key} item={item} />
 				))}

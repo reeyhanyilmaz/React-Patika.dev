@@ -1,10 +1,10 @@
 import { useState } from "react";
-
+import React from "react";
 import { send } from "../socketApi";
 
 function Palatte({ activeColor }) {
 	const [color, setColor] = useState("#000");
-
+	
 	return (
 		<div className="palette">
 			<input
